@@ -181,5 +181,4 @@ lightgbm_model = joblib.load("outputs/lightgbm_model.joblib")
 ---
 
 ## License and Data Policy
-This source code is released under the MIT License.
-The PhysioNet dataset is subject to the PhysioNet Challenge Data Use Agreement. Users must register and sign the agreement on the PhysioNet platform. Do not share or push patient `.psv` files to public repositories.
+This source code is to use for any purpose
