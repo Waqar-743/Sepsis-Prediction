@@ -1,0 +1,18 @@
+Early Sepsis Onset Prediction — Results Summary
+=======================================================
+
+Random state          : 42
+Training samples      : 211,477
+Test samples          : 52,648
+Features              : 102
+Noisy labels removed  : 241
+
+--- XGBoost ---
+  AUROC : 0.7288
+  AUPRC : 0.0418
+
+--- LightGBM ---
+  AUROC : 0.7286
+  AUPRC : 0.0446
+
+Total runtime: 525.8s
