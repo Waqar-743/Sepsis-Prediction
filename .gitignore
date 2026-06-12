@@ -3,10 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 
-# Ignore outputs except .gitkeep
-
-!outputs/.gitkeep
-
 # Ignore data except .gitkeep
 data/*
 !data/.gitkeep
